@@ -1,0 +1,15 @@
+RESULTS
+
+When we see the text "Shakespeare_Juliet's Soliloquy" it speaks more about being alone,uses words such as horrible, farewell and many more words that shows the negativity being highlighted and therefore the sentiment score obtained -0.406 makes sense.
+Where as the text "Shakespeare_Sonnet" here the words used like heaven, love and many more highlight the positivity of the text and therefore the sentiment score obtained 0.4 that makes sense.
+From these examples, I believe the sentiment score that are obtained are making sense.
+
+In this program, I am using mean function to find the overall sentiment of the text which performs by analysing the sentiment for each sentence and finding the mean of the score. This approach makes more sense than using other statistical methods such as median and mode.
+
+Some extended applications of this program are:
+
+i. We can implement the same code for the entire story or the novel to find its overall sentiment.
+
+ii. We can also fetch the reviews of a certain product and perform this analysis to know the working of the product whether it is has a overall positive feedback or negative feedback
+
+iii.We can perform the comparitative analysis by considering different poems written by different poets and then catagorize them based on overall score.
